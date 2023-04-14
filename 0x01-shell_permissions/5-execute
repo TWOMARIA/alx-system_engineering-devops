@@ -1,0 +1,4 @@
+
+#!/bin/bash
+chmoud u+*x hello
+
